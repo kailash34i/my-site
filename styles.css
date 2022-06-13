@@ -1,0 +1,143 @@
+body{
+    margin: 0%;
+    text-align: center;
+    color: #40514E;
+}
+h1{
+    margin: 50px auto 0px auto;
+    font-family: "Rock Salt", sans-serif ;
+    font-size: 3.125rem;
+    color: #66BFBF;
+}
+h2{
+    color: #66BFBF;
+    font-weight: normal;
+    font-size: 2.125rem;
+   margin-top: 0px;
+}
+.top-container{
+    background-color: #c8f5ea;
+    height: 700px; 
+    padding-top: 100px;
+    margin: 0;
+}
+.top-cloud{
+    position: absolute;
+    top: 70px;
+    right: 25%;
+}
+.bottom-cloud{
+    position: absolute;
+    top: 280px;
+    left: 22%;
+    color: gray;
+}
+span{
+    text-decoration: underline;
+}
+.mountain-image{
+    position: relative;
+    top :75px;
+}
+.bottom-container{
+    
+               background-color: #54bebe;
+               height: 120px;
+               position: relative;
+               top: 100px;
+}
+.skill-row{
+    width: 40%;
+    margin: 100px auto;
+    text-align: left;
+}
+h3{
+    color: #54bebe;
+    margin-top: 40px;
+    
+}
+p{
+    line-height: 2;
+    margin-bottom: 100px;
+}
+.computer-image{
+                 width: 25%;
+                 border-radius: 50%;
+                 float: left;
+                 margin-right: 20px;
+                
+}
+.chillies-img{
+                   width: 25%;  
+                   float: right;
+                   margin-left: 20px;
+}   
+.profile{
+    margin-top: 70px;
+}   
+h2{
+    margin-top: 30px;
+}  
+.my-skill{
+    margin-top: 110px;
+}
+hr{
+   
+    width: 120px;
+    border-top: dotted gray 5px;
+    border-bottom: none;
+}
+.get-in{
+    margin-top: 80px;
+}
+.get-pera{
+            margin-top: 50px;
+}
+ 
+.btn {
+    background: #3498db;
+    background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+    background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+    background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+    background-image: -o-linear-gradient(top, #3498db, #2980b9);
+    background-image: linear-gradient(to bottom, #3498db, #2980b9);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    text-shadow: 2px 2px 2px #666666;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+.footer-link{
+    background: #54bebe;
+    background-image: -webkit-linear-gradient(top, #54bebe, #54bebe);
+    background-image: -moz-linear-gradient(top, #54bebe, #54bebe);
+    background-image: -ms-linear-gradient(top,#54bebe , #54bebe);
+    background-image: -o-linear-gradient(top, #54bebe, #54bebe);
+    background-image: linear-gradient(to bottom, #54bebe, #54bebe);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    /*text-shadow: 2px 2px 2px #666666;*/
+    font-family: Arial;
+    color: #11999E;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    position: relative;
+    top: 30px;
+}  
+p{
+    margin-top: 40px;
+    color: rgb(30, 30, 27);
+}
+ a:hover{
+        color: #ffffff;
+    }
+ .copyright{
+     font-size: 0.96rem;
+     color: rgb(221, 231, 231);
+ }   
